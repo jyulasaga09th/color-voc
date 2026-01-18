@@ -1,0 +1,31 @@
+*{
+    font-weight: normal;
+}
+#red {
+    color:red
+}
+
+#blue{
+    color:blue
+}
+#orange{
+    color:orange
+}
+
+#green{
+    color:green
+}
+#yellow{
+    color:yellow
+}
+
+img[src] {
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: palevioletred;
+}
+h2{
+    color:gold
+}
